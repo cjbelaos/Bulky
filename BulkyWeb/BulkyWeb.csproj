@@ -21,4 +21,8 @@
     <Folder Include="wwwroot\lib\toastr\css\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Bulky.DataAccess\Bulky.DataAccess.csproj" />
+  </ItemGroup>
+
 </Project>
